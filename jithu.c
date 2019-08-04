@@ -8,4 +8,11 @@ LIVETV
 NVOD
 BOOKMARK
 
+
+Favourite
+Rating
+
+done my changes
+
 final version
+
