@@ -7,3 +7,6 @@ LIVETV
 
 NVOD
 BOOKMARK
+
+Favourite
+Rating
