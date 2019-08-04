@@ -4,3 +4,6 @@ only basic features
 TSTV
 VOD
 LIVETV
+
+NVOD
+BOOKMARK
